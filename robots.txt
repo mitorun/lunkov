@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /tst/
+Disallow: /fls/
+Disallow: /page1.html
+Sitemap: https://example.com/sitemap.xml
